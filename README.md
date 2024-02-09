@@ -1,6 +1,6 @@
 # NLP-Basics
 
-<h1> Planning </h1>
+<h1> Text Preprocessing Planning </h1>
 
 <br>1- Lowercasing
 <br>2- Remove HTML tags
